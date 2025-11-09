@@ -23,6 +23,8 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bash-121011?logo=gnu-bash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vulkan-AC162C?logo=vulkan&logoColor=white"/>
 </p>
 
 #### 🌐 Web & Backend
