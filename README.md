@@ -54,7 +54,6 @@
   <img src="https://img.shields.io/badge/Premiere%20Pro-9999FF?logo=adobepremierepro&logoColor=white"/>
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?logo=adobephotoshop&logoColor=white"/>
   <img src="https://img.shields.io/badge/FL%20Studio-FF7C00?logo=flstudio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TouchDesigner-000000?logo=derivative&logoColor=white"/>
   <img src="https://img.shields.io/badge/OBS%20Studio-302E31?logo=obsstudio&logoColor=white"/>
   <img src="https://img.shields.io/badge/DaVinci%20Resolve-233A51?logo=davinciresolve&logoColor=white"/>
 </p>
